@@ -38,17 +38,6 @@ Display the live video stream using `cv2.imshow()`.
 ### Step 5:
 Resize the frame and rotate it using OpenCV functions, then display the processed frames.
 
----
-
-## 💻 Program
-
-### Developed By:
-**Name:** MAHENDIRAN.M 
-
-### Register No:212225230165
----
-
-## Output
 
 ### i) Write the frame as JPG image
 ```import cv2
@@ -136,7 +125,6 @@ cap.release()
 ```
 <img width="472" height="512" alt="image" src="https://github.com/user-attachments/assets/f6e4112c-8d9f-4c95-89d8-007c78c3300b" />
 
----
 
 ## Result
 
